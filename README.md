@@ -1,11 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Angular Blog" />
-
-  &#xa0;
-
-  <!-- <a href="https://angularblog.netlify.app">Demo</a> -->
-</div>
-
 <h1 align="center">Angular Blog</h1>
 
 <p align="center">
