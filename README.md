@@ -1,3 +1,6 @@
+<p align="center">
+  <img src=".github/assets/header.png">
+</p>
 <h1>Angular Blog</h1>
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
