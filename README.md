@@ -1,28 +1,15 @@
 <h1 align="center">Angular Blog</h1>
 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/jonasfschuh/angular-blog?color=56BEB8">
-
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/jonasfschuh/angular-blog?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jonasfschuh/angular-blog?color=56BEB8">  
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jonasfschuh/angular-blog?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/jonasfschuh/angular-blog?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/jonasfschuh/angular-blog?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/jonasfschuh/angular-blog?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/jonasfschuh/angular-blog?color=56BEB8" /> -->
 </p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Angular Blog 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -38,27 +25,25 @@
 
 ## :dart: About ##
 
-Describe your project
+This is a blog project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+A blog project created with Angular 17 based on dribbble layout
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Components menu-bar, menu-title, small-card, big-card;\
+:heavy_check_mark: Dynamic data;\
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
+- [Angular](https://angular.dev/)
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), [Node](https://nodejs.org/en/) and [Angular](https://angular.dev/) installed.
 
 ## :checkered_flag: Starting ##
 
@@ -69,13 +54,20 @@ $ git clone https://github.com/jonasfschuh/angular-blog
 # Access
 $ cd angular-blog
 
-# Install dependencies
-$ yarn
+# Development server
 
-# Run the project
-$ yarn start
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-# The server will initialize in the <http://localhost:3000>
+# Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+# Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+
+# The server will initialize in the <http://localhost:4200>
 ```
 
 ## :memo: License ##
