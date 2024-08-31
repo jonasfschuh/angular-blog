@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/image/header.gif">
+  <img src="docs/img/header.gif">
 </p>
 <h1>Angular Blog</h1>
 
