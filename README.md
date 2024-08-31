@@ -81,6 +81,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ![](https://github.com/jonasfschuh/angular-blog/blob/main/docs/img/home.gif?raw=true&sanitize=true)
 
+
 ![](https://github.com/jonasfschuh/angular-blog/blob/main/docs/img/content.gif?raw=true&sanitize=true)
 
 
