@@ -44,7 +44,7 @@ A blog project created with Angular 17 based on dribbble layout
 
 The following tools were used in this project:
 
-- [Angular](https://angular.dev/)
+- [Angular 17](https://angular.dev/)
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
 
