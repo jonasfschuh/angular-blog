@@ -22,7 +22,7 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#screenshots">Screenshot</a> &#xa0; | &#xa0;
+  <a href="#screenshots">Screenshots</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/jonasfschuh" target="_blank">Author</a>
 </p>
@@ -77,7 +77,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ```
 
-## :screenshots: Screenshots ##
+## Screenshots ##
 
 ![](https://github.com/jonasfschuh/angular-blog/blob/main/docs/img/home.gif?raw=true&sanitize=true)
 
