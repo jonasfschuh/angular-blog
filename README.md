@@ -38,6 +38,7 @@ A blog project created with Angular 17 based on dribbble layout
 ## :sparkles: Features ##
 
 :heavy_check_mark: Components menu-bar, menu-title, small-card, big-card;
+
 :heavy_check_mark: Dynamic data;
 
 ## :rocket: Technologies ##
