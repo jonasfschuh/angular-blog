@@ -31,6 +31,7 @@
 ## :dart: About ##
 
 This is a blog project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+
 A blog project created with Angular 17 based on dribbble layout
 
 ## :sparkles: Features ##
