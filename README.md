@@ -1,22 +1,10 @@
-<h1 align="center">Angular Blog</h1>
-
-<div align="center">
+<h1>Angular Blog</h1>
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-</div>
-
-
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/jonasfschuh/angular-blog?color=56BEB8">
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/jonasfschuh/angular-blog?color=56BEB8">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jonasfschuh/angular-blog?color=56BEB8">  
-
-</p>
-
-<p align="center">
+<p >
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
